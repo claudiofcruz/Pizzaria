@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string name="radMussarela">Mussarela</string>
+    <string name="radCalabresa">Calabresa</string>
+    <string name="radPortuguesa">Portuguesa</string>
+    <string name="chbBorda">Borda Recheada</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtResultado">R$ 0,00</string>
+</resources>
